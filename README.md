@@ -1,5 +1,5 @@
 # clickup-automantion
-clickup automation 과 github issue 연동 시스템화 테스트 + github actions 통한 clickup api 사용법 학습
+clickup automation 과 github issue 연동 시스템화 테스트
 
 - [clickup api doc ](https://clickup.com/api/)
 - [clickup github app setting](#clickup-github-app-setting)
